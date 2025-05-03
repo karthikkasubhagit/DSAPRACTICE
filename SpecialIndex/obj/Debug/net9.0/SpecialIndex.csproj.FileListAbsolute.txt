@@ -1,0 +1,14 @@
+C:\Karthik\DSA\DSAPractice\SpecialIndex\bin\Debug\net9.0\SpecialIndex.exe
+C:\Karthik\DSA\DSAPractice\SpecialIndex\bin\Debug\net9.0\SpecialIndex.deps.json
+C:\Karthik\DSA\DSAPractice\SpecialIndex\bin\Debug\net9.0\SpecialIndex.runtimeconfig.json
+C:\Karthik\DSA\DSAPractice\SpecialIndex\bin\Debug\net9.0\SpecialIndex.dll
+C:\Karthik\DSA\DSAPractice\SpecialIndex\bin\Debug\net9.0\SpecialIndex.pdb
+C:\Karthik\DSA\DSAPractice\SpecialIndex\obj\Debug\net9.0\SpecialIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Karthik\DSA\DSAPractice\SpecialIndex\obj\Debug\net9.0\SpecialIndex.AssemblyInfoInputs.cache
+C:\Karthik\DSA\DSAPractice\SpecialIndex\obj\Debug\net9.0\SpecialIndex.AssemblyInfo.cs
+C:\Karthik\DSA\DSAPractice\SpecialIndex\obj\Debug\net9.0\SpecialIndex.csproj.CoreCompileInputs.cache
+C:\Karthik\DSA\DSAPractice\SpecialIndex\obj\Debug\net9.0\SpecialIndex.dll
+C:\Karthik\DSA\DSAPractice\SpecialIndex\obj\Debug\net9.0\refint\SpecialIndex.dll
+C:\Karthik\DSA\DSAPractice\SpecialIndex\obj\Debug\net9.0\SpecialIndex.pdb
+C:\Karthik\DSA\DSAPractice\SpecialIndex\obj\Debug\net9.0\SpecialIndex.genruntimeconfig.cache
+C:\Karthik\DSA\DSAPractice\SpecialIndex\obj\Debug\net9.0\ref\SpecialIndex.dll
